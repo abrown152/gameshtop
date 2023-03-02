@@ -25,6 +25,7 @@ gem 'yabeda-prometheus'
 gem 'yabeda-rails'
 gem 'yabeda-puma-plugin'
 gem 'yabeda-sidekiq'
+gem 'influxdb-rails'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
