@@ -23,6 +23,8 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'yabeda-prometheus'
 gem 'yabeda-rails'
+gem 'yabeda-puma-plugin'
+gem 'yabeda-sidekiq'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
